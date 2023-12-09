@@ -43,9 +43,8 @@ format: html
 
     Further Assignment
 
-```{=html}
 <!-- -->
-```
+
 1.  Task completed
 
 2.  Task completed

@@ -15,11 +15,11 @@ format: html
 
     Churchill
 
-    ![](images/Assignment 6 Churchill-01.jpg){width="309"}
+    ![](images/Assignment%206%20Churchill-01.jpg){width="309"}
 
     Wikipedia
 
-    ![](images/Assignment 6 Wiki-01.jpg)
+    ![](images/Assignment%206%20Wiki-01.jpg)
 
 3.  Challenge: How to download multiple pdf/data files using webscraping methods?
 

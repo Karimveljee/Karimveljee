@@ -31,7 +31,7 @@ The intervals between peaks are irregular, but the most notable peaks align with
 
 b\. Use gtrendsR package to do a. (use gtrendsR01.R program)
 
-![](images/Assignment2 gtrendsR-01.jpg){width="377"}
+![](images/Assignment2%20gtrendsR-01.jpg){width="377"}
 
 c\. What are the differences between the two methods?
 
